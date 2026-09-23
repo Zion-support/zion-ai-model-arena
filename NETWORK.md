@@ -1,10 +1,17 @@
-# Zion AI Model Arena
+# Zion AI Model Arena — Zion App Network
 
-Compare LLM models on price, context window, and quality.
+Zion AI Model Arena — compare LLM models on price, context window, and benchmarks. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
-- Related: [ai-model-cost-calculator](https://github.com/Zion-support/ai-model-cost-calculator) · [zion-ai-model-cost-simulator](https://github.com/Zion-support/zion-ai-model-cost-simulator) · [ai-benchmark-lab](https://github.com/Zion-support/ai-benchmark-lab) · [zion-benchmark-explainer](https://github.com/Zion-support/zion-benchmark-explainer)
+- 🔗 Live app: [https://modelarena.ziontechgroup.com](https://modelarena.ziontechgroup.com)
+- 🏠 Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Benchmark Lab](https://github.com/Zion-support/zion-ai-benchmark-lab) — model evaluations and leaderboards
+- [LLM Cost Calculator](https://github.com/Zion-support/llm-cost-calculator) — token pricing comparison
+- [Zion AI Model Cost Simulator](https://github.com/Zion-support/zion-ai-model-cost-simulator) — pre-flight cost & latency simulation
+- [Token Context Calculator](https://github.com/Zion-support/token-context-calculator) — tokens vs context windows
+- [Zion AI Prompt Router](https://github.com/Zion-support/zion-ai-prompt-router) — intelligent LLM routing
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
